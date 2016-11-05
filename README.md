@@ -21,4 +21,5 @@ Sudoku UI http://newcoder.io/gui/
 The UI is based on the tutorial given here. There are some changes to accomodate 2x2 Sudoku and introduces solvers.
 
 
-norvig
+Solving Every Sudoku Puzzle http://norvig.com/sudoku.html
+Took the sudoka samples here
